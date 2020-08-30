@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087673819506",
+    "firebase_url": "https://android-hw-pl-8.firebaseio.com",
+    "project_id": "android-hw-pl-8",
+    "storage_bucket": "android-hw-pl-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087673819506:android:da261986d703484449fdeb",
+        "android_client_info": {
+          "package_name": "com.example.androidpl_hw_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087673819506-8n2uetfso73g3lpuq989hgh21jn27rlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr--JSYFK9zUmlQNR_PNHYD93ono2ibFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087673819506-8n2uetfso73g3lpuq989hgh21jn27rlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
